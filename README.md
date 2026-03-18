@@ -1,9 +1,6 @@
-<div align="center">
 
-<!-- MATRIX BACKGROUND -->
-<img src="https://media.giphy.com/media/3o7TKsQ8UQ5j3r0kqY/giphy.gif" width="100%"/>
+  <div align="center">
 
-<!-- HEADER ON TOP -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:022c22,75:065f46,100:00FF9F&height=260&section=header&text=Tanmay%20Jirekar&fontSize=48&fontAlignY=35&desc=AI%20%7C%20Full%20Stack%20Developer%20%7C%20Problem%20Solver&descAlignY=58&animation=twinkling&fontColor=00FF9F"/>
 
 </div>
@@ -12,7 +9,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=700&color=00FF9F&center=true&vCenter=true&width=800&lines=Aspiring+Software+Engineer;AI+%2F+ML+Enthusiast;Full+Stack+Developer;Blockchain+Explorer;Building+Real+World+Solutions;Always+Learning+%F0%9F%9A%80"/>
 
-</div>
+</div> 
 
 
 

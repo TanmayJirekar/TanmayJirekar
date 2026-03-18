@@ -12,11 +12,7 @@
 
 ---
 
-<div align="center">
 
-<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100%"/>
-
-</div>
 
 ---
 
@@ -32,7 +28,7 @@
 
 ## 🌊 About Me  
 
-<img align="right" width="320" src="https://media.giphy.com/media/UqZ4imFIoljlr5O2sM/giphy.gif"/>
+
 
 💡 Aspiring Software Engineer passionate about **AI/ML, Full-Stack & Blockchain**  
 ⚡ Built **6+ production-level projects** with real-world impact  
@@ -150,7 +146,7 @@ HackSphere | AXIS | Technex | CIH | Ideathon | Hackathonix
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="100%"/>
+
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:022c22,100:00FF9F&height=140&section=footer"/>
 

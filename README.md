@@ -39,7 +39,7 @@
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FF9F,100:022c22&height=3"/>
+
 
 ## 🧠 Tech Stack  
 
@@ -148,7 +148,7 @@ HackSphere | AXIS | Technex | CIH | Ideathon | Hackathonix
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="100%"/>
+
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:022c22,100:00FF9F&height=140&section=footer"/>
 

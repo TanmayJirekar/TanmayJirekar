@@ -1,12 +1,18 @@
-<div align="center">
+<div align="center" style="position: relative;">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:022c22,75:065f46,100:00FF9F&height=260&section=header&text=Tanmay%20Jirekar&fontSize=48&fontAlignY=35&desc=AI%20%7C%20Full%20Stack%20Developer%20%7C%20Problem%20Solver&descAlignY=58&animation=twinkling&fontColor=00FF9F"/>
+<img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="100%" height="260"/>
+
+<div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);">
+
+<h1 style="color:#00FF9F; font-size:48px; text-shadow:0 0 15px #00FF9F;">
+Tanmay Jirekar
+</h1>
+
+<p style="color:#00FF9F;">
+AI | Full Stack Developer | Problem Solver
+</p>
 
 </div>
-
-<div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=700&color=00FF9F&center=true&vCenter=true&width=800&lines=Aspiring+Software+Engineer;AI+%2F+ML+Enthusiast;Full+Stack+Developer;Blockchain+Explorer;Building+Real+World+Solutions;Always+Learning+%F0%9F%9A%80"/>
 
 </div>
 

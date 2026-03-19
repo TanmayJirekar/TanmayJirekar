@@ -1,10 +1,8 @@
-<div align="center" style="position: relative;">
+<div align="center">
 
 <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="100%" height="260"/>
 
-<div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);">
-
-<h1 style="color:#00FF9F; font-size:48px; text-shadow:0 0 15px #00FF9F;">
+<h1 style="position: relative; margin-top: -200px; color:#00FF9F; font-size:48px;">
 Tanmay Jirekar
 </h1>
 
@@ -13,9 +11,6 @@ AI | Full Stack Developer | Problem Solver
 </p>
 
 </div>
-
-</div>
-
 ---
 
 

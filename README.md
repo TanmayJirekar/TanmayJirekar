@@ -9,7 +9,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=700&color=00FF9F&center=true&vCenter=true&width=800&lines=Aspiring+Software+Engineer;AI+%2F+ML+Enthusiast;Full+Stack+Developer;Blockchain+Explorer;Building+Real+World+Solutions;Always+Learning+%F0%9F%9A%80"/>
 
 </div>
-==
+
 ---
 
 
